@@ -1,0 +1,32 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color: rgb(155, 204, 227);
+}
+
+.heading{
+    width: 100%;
+    font-size: 25px;
+    letter-spacing: 4px;
+}
+
+.take_snapshot{
+    font-size: 20px;
+    width: 230px;
+    letter-spacing: 3px;
+}
+
+canvas{
+    border: 10px ridge white;
+}
+
+.nextfilter{
+    float: right;
+    font-size: 20px;
+    margin-right: 2px;
+}
+
+.back{
+    float: left;
+    font-size: 20px;
+    margin-left: 2px;
+}
